@@ -1,1 +1,3 @@
-# talepApp
+# talepApp 
+
+TalepAppScript.sql veri tabanıdır.
