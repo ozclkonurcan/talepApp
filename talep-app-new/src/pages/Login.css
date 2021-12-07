@@ -1,0 +1,11 @@
+.Login {
+    z-index: 1;
+    transition: all 1.3s ease-in-out;
+
+}
+
+
+.size {
+    margin-top: -500px;
+
+}

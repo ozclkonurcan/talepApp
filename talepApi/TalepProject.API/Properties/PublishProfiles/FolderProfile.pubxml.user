@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PUBLISH\TALEPAPP</_PublishTargetUrl>
+    <History>True|2021-11-23T13:20:09.6188818Z;False|2021-11-23T16:19:49.3493567+03:00;True|2021-11-23T15:35:55.4698864+03:00;False|2021-11-23T15:32:55.9328970+03:00;False|2021-11-23T15:32:12.3147567+03:00;False|2021-11-23T15:31:57.3661133+03:00;True|2021-11-23T14:22:30.2922577+03:00;True|2021-11-23T13:25:14.1094066+03:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DBEntities">
+      <Value>Data Source=DESKTOP-37JS1B5\SQLEXPRESS%3bInitial Catalog=TalepUygulamasi%3bIntegrated Security=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TalepProject.Entities.Talep_DBContext">
+      <Value>Data Source=DESKTOP-37JS1B5\SQLEXPRESS%3bInitial Catalog=TalepUygulamasi%3bIntegrated Security=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

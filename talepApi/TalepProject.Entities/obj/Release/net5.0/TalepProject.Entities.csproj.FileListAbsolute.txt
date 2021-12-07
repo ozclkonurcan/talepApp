@@ -1,0 +1,12 @@
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\bin\Release\net5.0\TalepProject.Entities.deps.json
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\bin\Release\net5.0\TalepProject.Entities.dll
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\bin\Release\net5.0\ref\TalepProject.Entities.dll
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\bin\Release\net5.0\TalepProject.Entities.pdb
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.AssemblyInfo.cs
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.dll
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\ref\TalepProject.Entities.dll
+C:\Users\Onur\Desktop\bireyselTalepForm\talepApi\TalepProject.Entities\obj\Release\net5.0\TalepProject.Entities.pdb
